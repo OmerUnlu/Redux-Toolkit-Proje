@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Redux-Toolkit-Proje/static/css/main.fade98f0.css",
+    "main.js": "/Redux-Toolkit-Proje/static/js/main.ae25de94.js",
+    "index.html": "/Redux-Toolkit-Proje/index.html",
+    "main.fade98f0.css.map": "/Redux-Toolkit-Proje/static/css/main.fade98f0.css.map",
+    "main.ae25de94.js.map": "/Redux-Toolkit-Proje/static/js/main.ae25de94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fade98f0.css",
+    "static/js/main.ae25de94.js"
+  ]
+}
